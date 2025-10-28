@@ -1,1 +1,1 @@
-bitnami/postgresql
+ollama/ollama
